@@ -18,4 +18,3 @@ I am a Software Engineering graduate from COMSATS University, passionate about c
 
 ---
 
-[![Profile Views](https://komarev.com/ghpvc/?username=alizanaeem1&color=blue)](https://github.com/alizanaeem1)
