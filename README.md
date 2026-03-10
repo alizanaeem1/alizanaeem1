@@ -13,7 +13,6 @@ I am a Software Engineering graduate from COMSATS University, passionate about c
 ![](https://github-readme-streak-stats.herokuapp.com/?user=alizanaeem1&theme=dark)  
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=alizanaeem1&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-### 🔝 Top Contributed Repos
 ![](https://github-contributor-stats.vercel.app/api?username=alizanaeem1&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
